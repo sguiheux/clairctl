@@ -41,6 +41,10 @@
   name = "github.com/opencontainers/runc"
   revision = "bc1467269fce13e9780345cfa25f9ca530601aba"
 
+[[override]]
+  name = "github.com/opencontainers/runtime-spec"
+  revision = "4e3b9264a330d094b0386c3703c5f379119711e8"
+
 [[constraint]]
   name = "github.com/docker/docker"
   revision = "683738900eec52f86b834234eeef054c4e135031"

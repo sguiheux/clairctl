@@ -368,7 +368,7 @@
 [[projects]]
   name = "github.com/opencontainers/runtime-spec"
   packages = ["specs-go"]
-  revision = "1c7c27d043c2a5e513a44084d2b10d77d1402b8c"
+  revision = "4e3b9264a330d094b0386c3703c5f379119711e8"
 
 [[projects]]
   name = "github.com/pborman/uuid"
@@ -556,6 +556,6 @@
 [solve-meta]
   analyzer-name = "dep"
   analyzer-version = 1
-  inputs-digest = "89e8c219cca7b989364e5df9c5456b325ec9befeca0d470dc615d297869f43bd"
+  inputs-digest = "127d50beb014df074d892349982ec6856e00acbc2cc9166ba831d8ffa43f64d3"
   solver-name = "gps-cdcl"
   solver-version = 1
